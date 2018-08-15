@@ -1,0 +1,9 @@
+{
+  "Id": "mindless.ttmm.ammo.mod",
+  "DisplayName": "Ammo Mod",
+  "Author": "Mindlessmrawesome",
+  "Version": "1.0.0",
+  "Enable": true,
+  "AssemblyName": "YourMods.dll",
+  "EntryMethod": "AmmoMod.QPatch.Main"
+}
